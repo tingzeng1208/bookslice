@@ -70,6 +70,7 @@ const AddBook = () => {
           value={title}
           color="white"
           placeholder="The Lord of the Rings"
+          height="40px"
           onChange={(e) => setTitle(e.currentTarget.value)}
         />
         <FormLabel color="white" marginTop={4}>
@@ -79,6 +80,7 @@ const AddBook = () => {
           value={author}
           color="white"
           placeholder="J.R.R Tolkien"
+          height="40px"
           onChange={(e) => setAuthor(e.currentTarget.value)}
         />
         <Button

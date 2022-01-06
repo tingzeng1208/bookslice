@@ -5,7 +5,7 @@ import { useAppDispatch } from '../hooks';
 import { deleteBook } from '../redux/bookSlice';
 import { useHistory } from 'react-router-dom';
 
-const BookInfo = ({
+const ApplicantInfo = ({
   title,
   author,
   id,
@@ -54,4 +54,4 @@ const BookInfo = ({
   );
 };
 
-export default BookInfo;
+export default ApplicantInfo;
