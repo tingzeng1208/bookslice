@@ -24,7 +24,7 @@ exports[`Renders BookInfo 1`] = `
     >
       <button
         aria-label=""
-        class="chakra-button css-mpbitt"
+        class="chakra-button css-ny0ya9"
         type="button"
       >
         <svg
@@ -44,7 +44,7 @@ exports[`Renders BookInfo 1`] = `
       </button>
       <button
         aria-label=""
-        class="chakra-button css-1gyfoc"
+        class="chakra-button css-ebsiyw"
         type="button"
       >
         <svg
